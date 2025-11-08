@@ -1,0 +1,17 @@
+# zk-Rollup Journal
+
+zk-Rollups are the most promising Layer 2 scaling solution for Ethereum — combining off-chain computation with on-chain cryptographic verification.  
+They compress thousands of transactions into a single proof, preserving security while drastically reducing gas usage.
+
+But zk-Rollups are more than a technical upgrade.  
+They represent a philosophical shift in how trust, privacy, and verification coexist on the internet.
+
+---
+
+## 🧩 What This Repository Explores
+
+- The **mathematical principles** behind zero-knowledge proofs (ZKPs)  
+- The **architecture** of zk-Rollups and their relation to Optimistic Rollups  
+- The **ecosystem**: zkSync, Starknet, Polygon zkEVM, Scroll, and others  
+- The **ethical questions**: privacy, transparency, and digital sovereignty  
+- The
